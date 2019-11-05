@@ -2,9 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\Unit-2",
-    "\\src\\Unit-2\\DoThis"
+    "\\src\\Unit-2\\DoThis",
+    "\\src\\Unit-3",
+    "\\src\\Unit-3\\lesson1",
+    "\\src\\Unit-3\\lesson1\\Completed"
   ],
-  "SelectedNode": "\\src\\Unit-2\\DoThis\\SystemCharting.sln",
+  "SelectedNode": "\\src\\Unit-3\\lesson1\\Completed\\GithubActors.sln",
   "PreviewInSolutionExplorer": false
 }
